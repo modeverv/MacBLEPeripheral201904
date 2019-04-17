@@ -1,0 +1,17 @@
+{
+  "name": "peri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "bleno": "github:notjosh/bleno#inject-bindings",
+    "bleno-mac": "github:notjosh/bleno-mac",
+    "xpc-connection": "github:taoyuan/node-xpc-connection"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
